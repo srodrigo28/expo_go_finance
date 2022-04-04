@@ -17,6 +17,7 @@ colors css
 expo install expo-font @expo-google-fonts/poppins
 expo install expo-app-loading
 npm i react-native-responsive-fontsize
+npm i react-native-iphone-x-helper
 
 icons.expo.fyi
 import { Feather } from '@expo/vector-icons'
